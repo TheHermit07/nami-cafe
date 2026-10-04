@@ -102,4 +102,7 @@
   .visit .map-art{margin:28px 0;border-radius:22px}
   .site-footer{padding-left:28px;padding-right:28px}
 }
+
+.brand-logo{display:block;width:110px;height:auto;max-height:54px;object-fit:contain;object-position:left center}
+.footer-logo{display:block;width:145px;height:auto;max-height:72px;object-fit:contain;object-position:left center}
 @media(min-width:761px) and (max-width:1050px){.section-shell,.site-header{padding-left:28px;padding-right:28px}.hero{grid-template-columns:1fr 1fr;gap:24px}.menu-grid{grid-template-columns:repeat(3,1fr)}.featured-grid{grid-template-columns:repeat(3,1fr)}.site-nav{gap:18px}}
